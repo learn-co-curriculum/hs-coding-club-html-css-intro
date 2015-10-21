@@ -1,6 +1,6 @@
 # Let's Get Coding!
 
-<img src="http://25.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mwjlmfJ1vx1rkiuhro1_500.gif">
+<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif">
 
 It's time to put all your HTML and CSS skills to the test by building your own personal website. We'll be using a Boostrap theme that you can edit and change.
 
