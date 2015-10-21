@@ -13,3 +13,8 @@ If you finish and want more, feel free to build another website!
 ## Share Share Share!
 
 Now that you've built your own website, it's time to show it off! Share your site with **\#flatironcodeclub** and **\#ibuiltthis**.
+
+
+## Tech News
+
+If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
