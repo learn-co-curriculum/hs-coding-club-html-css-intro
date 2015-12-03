@@ -15,7 +15,4 @@ If you finish and want more, feel free to build another website!
 Now that you've built your own website, it's time to show it off! Share your site with **\#flatironcodeclub** and **\#ibuiltthis**.
 
 
-## Tech News
-
-If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
 <a href='https://learn.co/lessons/hs-coding-club-html-css-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
