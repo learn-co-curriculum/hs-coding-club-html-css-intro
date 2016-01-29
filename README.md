@@ -15,4 +15,4 @@ If you finish and want more, feel free to build another website!
 Now that you've built your own website, it's time to show it off! Share your site with **\#flatironcodeclub** and **\#ibuiltthis**.
 
 
-<a href='https://learn.co/lessons/hs-coding-club-html-css-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-html-css-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
